@@ -1,0 +1,36 @@
+409: web designing
+1) html
+2) css
+3) javascript
+
+408: microprocessor
+assembly language
+
+
+402: OOPS
+Object Oriented Programming
+
+c language concepts: [function Oriented / procedural Oriented]
+if else
+loops
+Functions
+
+high level is nothing but something which is close to our real world issue
+
+C++ concepts: [Object Oriented Programming]: high level concept
+
+C++ is a multi paradigm programming language
+
+paradigm is nothing but way of solving a problem
+
+Object/Entity: Is a real world thing which has data about it.
+
+To create an Object we need to createa a blue print.
+
+Blue print is an idea "how it is created???"
+
+blue prints are created using "class"
+
+class denotes or declares how an object will be 
+what are its data and functions related to it.
+
